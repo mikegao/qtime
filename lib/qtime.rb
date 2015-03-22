@@ -25,9 +25,6 @@ class Qtime
 end
 
 class Time
-  def -(days)
-    Time.at(self.to_i - days)
-  end
 
   def normal_parse
     self.strftime("%Y-%m-%d %H:%S:%M")
