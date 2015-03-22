@@ -23,6 +23,11 @@ Time.new.to_day("line") => "2014-09-15"
 Time.new.to_day("solidus") => "2014/09/15"
 ```
 
+
+
+
+---
+
 if you have any questions or suggestions, please connect me
 
 **mike.gao0611#gmail.com**

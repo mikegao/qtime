@@ -46,4 +46,4 @@ class Time
 
 end
 
-p Time.new.to_day
+#p Time.new.to_day
